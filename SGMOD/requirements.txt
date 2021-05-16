@@ -1,0 +1,8 @@
+PIL==8.2.0
+torch==1.8.1
+numpy==1.19.2
+torchvision==0.9.1
+tqdm==4.59.0
+flask==1.1.2
+werkzeug==1.0.1
+matplotlib==3.3.4
